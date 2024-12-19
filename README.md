@@ -11,12 +11,12 @@ Page can be accessed with name parameter, but also has default value.
 ```
 [GET] https://localhost:8080/greeting?name=yourName
 ```
-In response yourName will be displayed on the website
+In response yourName will be displayed on the website.
 ### Without parameter
 ```
 [GET] https://localhost:8080/greeting
 ```
-In response there will be deafult name displayed: "Vistula"
+In response there will be deafult name displayed: "Vistula".
 
 ## Technologies
 - Spring Boot 3
